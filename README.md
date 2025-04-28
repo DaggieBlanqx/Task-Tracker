@@ -2,6 +2,8 @@
 
 At the surface, this looks like any other To-Do app.  
 Trust me, it is not.  
+In fact, it has nothing to do with task tracking or to-dos.
+It is a demo.
 It is a quest to break Vite, React, Express and try to bind them neatly.
 
 <details open>
@@ -43,7 +45,7 @@ But when you're building systems where APIs are the core?
 It turns into quicksand. Clunky. Frustrating.  
 And me?  
 I don't do bottlenecks.  
-I don't do handcuffs. Ahem, well, not these kind of handcuffs.   
+I don't do handcuffs. Ahem, well, not this kind of handcuffs.   
 
 I build for speed. I build for power. I build for control.
 
