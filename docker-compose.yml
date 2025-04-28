@@ -1,0 +1,26 @@
+services:
+  task-tracker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: task-tracker
+    environment:
+      - NODE_ENV=production
+      - PORT=9000
+    networks:
+      - task-tracker-network
+
+  nginx:
+    image: nginx:latest
+    container_name: nginx-proxy
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - task-tracker
+    networks:
+      - task-tracker-network
+networks:
+  task-tracker-network:
+    driver: bridge
