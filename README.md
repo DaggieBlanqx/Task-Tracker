@@ -4,7 +4,9 @@ At the surface, this looks like any other To-Do app.
 Trust me, it is not.  
 In fact, it has nothing to do with task tracking or to-dos.  
 It is a demo.  
-It is a quest to break Vite, React, Express and try to bind them neatly.
+It is an experiment and a quest to tinker with Vite, React, Express at surface level, and then try to bind them neatly.  
+It has been done before, but I couldn't find a proper starting point, so I re-created one.  
+All things made, were once in disarray.
 
 <details open>
 <summary>📚 Table of Contents</summary>
