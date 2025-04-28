@@ -8,7 +8,7 @@ It is a quest to break Vite, React, Express and try to bind them neatly.
 <summary>📚 Table of Contents</summary>
 
 - [The Real Story: Why I Built This](#-the-real-story-why-i-built-this)
-- [A Call, Not a Framework](#-a-call-not-a-framework)
+- [A Call to Arms](#-a-call-to-arms)
 - [The Mission](#-the-mission)
 - [Description](#-description)
 - [🚀 Stack](#-stack)
@@ -25,25 +25,25 @@ It is a quest to break Vite, React, Express and try to bind them neatly.
 
 ## 📖 The Real Story: Why I Built This
 
-It started with freedom.  
-React put real weapons in the hands of developers.  
+It started with freedom, the cornerstone of JavaScript.  
+Meta and React put real weapons in the hands of developers.  
 No limits. No suits. Just pure opportunity.
 
-Then the decay set in.  
-Create-React-App? Dead weight. Unfunded. Forgotten.  
-Next.js swooped in, cleaned up the mess, but at a price:  
+Then the decline began.  
+Create-React-App? Abandoned ship. Dead weight. Leaderless. Forgotten.  
+Vercel and Next.js swooped in, cleaned up the mess, but at a price:  
 They gave you order. They took your freedom.
 
 We played along.  
-Next.js made sense when all you needed was pages and SSR for marketing puppets.  
-And listen, no disrespect. I’ve used it in production. A lot.  
-It works if you enjoy being another cog in someone else's machine.
+Next.js made sense when all you needed was pages and SSR for marketing and SEO.  
+And listen, no disrespect. In fact, reverence, I’ve used it in production. A lot.  
+It works if you enjoy moving within someone else's walls.   
 
 But when you're building systems where APIs are the core?  
 It turns into quicksand. Clunky. Frustrating.  
 And me?  
 I don't do bottlenecks.  
-I don't do handcuffs.
+I don't do handcuffs. Ahem, well, not these kind of handcuffs.   
 
 I build for speed. I build for power. I build for control.
 
