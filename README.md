@@ -2,8 +2,8 @@
 
 At the surface, this looks like any other To-Do app.  
 Trust me, it is not.  
-In fact, it has nothing to do with task tracking or to-dos.
-It is a demo.
+In fact, it has nothing to do with task tracking or to-dos.  
+It is a demo.  
 It is a quest to break Vite, React, Express and try to bind them neatly.
 
 <details open>
@@ -39,13 +39,13 @@ They gave you order. They took your freedom.
 We played along.  
 Next.js made sense when all you needed was pages and SSR for marketing and SEO.  
 And listen, no disrespect. In fact, reverence, I’ve used it in production. A lot.  
-It works if you enjoy moving within someone else's walls.   
+It works if you enjoy moving within someone else's walls.
 
 But when you're building systems where APIs are the core?  
 It turns into quicksand. Clunky. Frustrating.  
 And me?  
 I don't do bottlenecks.  
-I don't do handcuffs. Ahem, well, not this kind of handcuffs.   
+I don't do handcuffs. Ahem, well, not this kind of handcuffs.
 
 I build for speed. I build for power. I build for control.
 
